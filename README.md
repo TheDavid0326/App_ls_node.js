@@ -7,8 +7,8 @@ Este script de Node.js, escrito en JavaScript, es una implementación personaliz
 Node.js y npm instalados en tu sistema.
 
 ## Para ejecutar el script:
-node 10_app_ls.js [directorio]
-[directorio]: El directorio que deseas listar. Si no se especifica, se listará el directorio actual.
+* node 10_app_ls.js [directorio]
+* [directorio]: El directorio que deseas listar. Si no se especifica, se listará el directorio actual.
 
 ## Funcionalidades
 Lista archivos y directorios: Muestra una lista detallada de todos los archivos y subdirectorios dentro del directorio especificado.
